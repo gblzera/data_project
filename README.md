@@ -67,7 +67,7 @@ streamlit run app.py
 
 ## 📷 Preview
 
-<img src="images/preview.png" alt="Preview do app" width="800px">
+<img src="https://github.com/gblzera/data_project/tree/master/analise-preco-combustivel/images/preview.png" alt="Preview do app" width="800px">
 
 > Interface intuitiva, com seleção de produto e visualização rápida de tendências ao longo do tempo.
 
