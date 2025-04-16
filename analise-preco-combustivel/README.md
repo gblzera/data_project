@@ -67,7 +67,7 @@ streamlit run app.py
 
 ## 📷 Preview
 
-<img src="file:///C:/Users/gabri/Downloads/preview.svg" alt="Streamlit Preview" width="250px">
+<img src="images/preview.png" alt="Preview do app" width="800px">
 
 > Interface intuitiva, com seleção de produto e visualização rápida de tendências ao longo do tempo.
 
